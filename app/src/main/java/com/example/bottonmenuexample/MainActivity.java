@@ -3,9 +3,12 @@ import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
+
+import com.example.bottonmenuexample.fragments.Fragment1;
+import com.example.bottonmenuexample.fragments.Fragment2;
+import com.example.bottonmenuexample.fragments.Fragment3;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import android.view.MenuItem;
-import com.example.bottonmenuexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
